@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dewayne123/Projects/TextAdventure/TextAdventure/TextAdventure.csproj": {}
+    "/Users/dewayne123/Desktop/TextAdventure/TextAdventure/TextAdventure.csproj": {}
   },
   "projects": {
-    "/Users/dewayne123/Projects/TextAdventure/TextAdventure/TextAdventure.csproj": {
+    "/Users/dewayne123/Desktop/TextAdventure/TextAdventure/TextAdventure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dewayne123/Projects/TextAdventure/TextAdventure/TextAdventure.csproj",
+        "projectUniqueName": "/Users/dewayne123/Desktop/TextAdventure/TextAdventure/TextAdventure.csproj",
         "projectName": "TextAdventure",
-        "projectPath": "/Users/dewayne123/Projects/TextAdventure/TextAdventure/TextAdventure.csproj",
+        "projectPath": "/Users/dewayne123/Desktop/TextAdventure/TextAdventure/TextAdventure.csproj",
         "packagesPath": "/Users/dewayne123/.nuget/packages/",
-        "outputPath": "/Users/dewayne123/Projects/TextAdventure/TextAdventure/obj/",
+        "outputPath": "/Users/dewayne123/Desktop/TextAdventure/TextAdventure/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
